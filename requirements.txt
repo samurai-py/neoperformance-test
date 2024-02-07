@@ -1,0 +1,6 @@
+yfinance
+pandas
+seaborn
+gspread
+oauth2client
+fuzzywuzzy
